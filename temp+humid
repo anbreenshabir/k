@@ -1,4 +1,7 @@
-//Temp and humidity code
+
+
+
+//Tech Trends Shameer
 
 #define BLYNK_TEMPLATE_ID "TMPLIAjddf20T5"
 #define BLYNK_DEVICE_NAME "Temperature and Humidity Monitor"
